@@ -1,0 +1,2 @@
+The land type is Arable Land and its total value is 5103038.000000
+The land type is Permanent Grassland and its total value is 26616120.700000
